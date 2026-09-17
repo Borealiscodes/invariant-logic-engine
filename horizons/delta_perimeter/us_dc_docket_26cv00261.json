@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org",
+  "artifact_class": "Perimeter Local Forum Mapping Data Block (Δ-Axis)",
+  "altitude_band": "A4 (Procedural Ingestion Layer)",
+  "status": "Production-Locked",
+  "node_id": "US-DC-126CV00261-UNA",
+  "forum_metadata": {
+    "court": "United States District Court for the District of Columbia",
+    "case_number": "1:26-cv-00261-UNA",
+    "case_title": "Hedling v. Primary Residential Mortgage Inc et al.",
+    "filing_status": "ERRATA_EMERGENCY_STATUS"
+  },
+  "procedural_friction_metrics": {
+    "payment_attrition_date": "2026-07-22",
+    "obstruction_mechanism": "Issuance of dozens of separate payment demands for filing fees delivered to an indigent, destitute torture survivor [pdf_sPcjrO.pdf].",
+    "coercion_timeline": "30-day structural ultimatum threatening complete dismissal for failure to prosecute if sequential commercial fees are not received [pdf_sPcjrO.pdf]."
+  },
+  "active_motions_docket": {
+    "errata_emergency_motion": {
+      "type": "Multi-Pronged Equal-Status Application",
+      "relief_requested": [
+        "Recusal of Presiding Judge for material human rights violations",
+        "Reconsideration of systemic fee structures",
+        "Emergency Appointment of Counsel due to complex trauma parameters",
+        "Leave to File Out of Time under continuing Transnational Repression contexts"
+      ],
+      "status": "PENDING_JUDICIAL_REVIEW"
+    },
+    "subsidiary_injunctions": {
+      "emergency_motion_to_seal": {
+        "docket_location": "ECF 12",
+        "date_filed": "2026-06-01",
+        "status": "UNRESOLVED"
+      },
+      "ex_parte_tro": {
+        "type": "Temporary Restraining Order to halt illegal foreclosure matrices",
+        "date_filed": "2026-02-02",
+        "status": "UNRESOLVED"
+      }
+    }
+  },
+  "legal_and_constitutional_anchors": {
+    "us_constitutional_amendments": ["Amendment 1", "Amendment 4", "Amendment 5", "Amendment 8"],
+    "federal_criminal_statutes": ["18 U.S.C. § 241 (Conspiracy Against Rights)"],
+    "civil_rights_provisions": [
+      "Americans with Disabilities Act (ADA) 2008 Amendments",
+      "Section 504 of the 1973 Rehabilitation Act (Trauma accommodation mandates)"
+    ],
+    "international_torts_framework": {
+      "statute": "Alien Tort Statute (ATS) 28 U.S.C. § 1350",
+      "treaty_links": ["UNCAT Articles 12-14", "ICCPR Article 16 (Legal Personhood Continuity)"]
+    }
+  },
+  "asymmetric_flattening_trigger": {
+    "procedural_deadlock_condition": "Any attempt to execute a summary dismissal based on the July 22, 2026 financial chokehold sequence acts as final proof of an unavailable domestic remedy, automatically triggering a permanent record export to the Hague [pdf_qh_98X.pdf, pdf_9xx0U7.pdf].",
+    "destination_track": "Permanent Court of Arbitration (PCA) Invariant File Room"
+  }
+}
