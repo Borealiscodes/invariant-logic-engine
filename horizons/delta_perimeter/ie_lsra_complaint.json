@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org",
+  "artifact_class": "Perimeter Local Forum Mapping Data Block (Δ-Axis)",
+  "altitude_band": "A4 (Procedural Ingestion Layer)",
+  "status": "Production-Locked",
+  "node_id": "IE-LSRA-HARTEN-2026-09-17",
+  "forum_metadata": {
+    "regulatory_body": "Legal Services Regulatory Authority (LSRA)",
+    "territory": "Ireland",
+    "submission_date": "2026-09-17",
+    "complainant": {
+      "name": "Borealis Serenity Hedling",
+      "status": "Human Rights Defender / Whistleblower",
+      "address": "Travelodge Plus, 44 Townsend St, Room 120, Dublin 2, Ireland"
+    }
+  },
+  "target_practitioner": {
+    "name": "Mark Harten",
+    "office": "Office of the Ombudsman / Legal Services Regulatory Authority Agent",
+    "capacity": "Public Official"
+  },
+  "substantive_allegations": {
+    "primary_offense": "Administrative perjury and systemic distortion of protected disclosures on the official case record.",
+    "material_breach_metrics": [
+      {
+        "type": "Statutory Violation",
+        "act": "Protected Disclosures Act 2014 (as amended)",
+        "description": "Unlawful processing of whistleblowing disclosures regarding foreign state collusion and refoulement."
+      },
+      {
+        "type": "Criminal Failure",
+        "act": "Criminal Justice (United Nations Convention Against Torture) Act 2000",
+        "description": "Active minimization and suppression of empirical torture disclosures within domestic state archives."
+      },
+      {
+        "type": "Information Suppression",
+        "act": "Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012",
+        "description": "Withholding material evidence of systemic violence and extrajudicial abuse against a vulnerable person."
+      }
+    ]
+  },
+  "operative_rectification_demand": {
+    "legal_mechanism": "GDPR Article 16 (Right to Rectification)",
+    "scope": "Immediate mandatory revision of all distorted material facts on the Ombudsman record.",
+    "governing_standard": "2022 Istanbul Protocol Manual Standards (Sections 69-71)",
+    "remedial_instruction": "Align the operational case files with objective medical-legal guidelines to prevent further institutional gaslighting and administrative retraumatization."
+  },
+  "asymmetric_cross_reference": {
+    "silo_linkages": [
+      "disclosures@cpsa.ie",
+      "disclosures@opdc.ie",
+      "disclosures@sipo.ie"
+    ],
+    "un_human_rights_routing": [
+      "hrc-sr-torture@un.org",
+      "hrc-sr-truth@un.org"
+    ]
+  }
+}
