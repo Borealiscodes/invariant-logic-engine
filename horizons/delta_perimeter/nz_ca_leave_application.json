@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org",
+  "artifact_class": "Perimeter Local Forum Mapping Data Block (Δ-Axis)",
+  "altitude_band": "A4 (Procedural Ingestion Layer)",
+  "status": "Production-Locked",
+  "node_id": "NZ-CA-CIVIL-2026-FORM3",
+  "forum_metadata": {
+    "court": "Court of Appeal of New Zealand — I te Kōti Pīra o Aotearoa",
+    "filing_status": "OUT_OF_TIME_APPLICATION",
+    "appellant": "Borealis Serenity Hedling",
+    "respondent": "High Court of New Zealand Wellington Registry Office"
+  },
+  "procedural_mechanisms": {
+    "leave_to_appeal": {
+      "form": "Form 3 Notice of Application for Leave to Appeal",
+      "statutory_framework": "Part 6, Criminal Procedure Act 2011",
+      "challenged_decision": "Wellington High Court June 9, 2026 ministerial denial to file 'Hedling v. The Governor General of New Zealand' under the shield of domestic formatting Rule 1.21(1) [pdf_qzSYUi.pdf]."
+    },
+    "extension_of_time_motion": {
+      "rules_invoked": [
+        "Rule 5A(1)(3)(a) of the Court of Appeal (Civil) Rules 2005",
+        "Rule 10B Oral Informal Application Mandate"
+      ],
+      "delay_justification": "Ongoing cross-border torture, chronic refoulement risks, severe cognitive trauma-barriers, and a persistent refusal by the lower registry to acknowledge oral accommodation requests [pdf_ui9Phv.pdf]."
+    }
+  },
+  "substantive_appellate_grounds": {
+    "territorial_liability": {
+      "target_actor": "Greg Robins (Director of the Office of Human Rights Proceedings)",
+      "geographic_presence": "Wellington, New Zealand",
+      "legal_breach": "Active failure to act, causing structural concealment of refoulement matrices and violations of UNCAT Articles 12 & 13 investigative protocols [pdf_ui9Phv.pdf]."
+    },
+    "conflict_of_interest_bypass": {
+      "doctrine": "Nemo Judex in Causa Sua",
+      "precedent_source": "UK Crown Prosecution Service Operational Precedents",
+      "application": "Statutory attorney-general or registry consent rules become legally void when the gatekeeping executive entities are directly implicated or conflicted in the underlying international torts [pdf_ui9Phv.pdf]."
+    }
+  },
+  "jurisdictional_treaty_anchors": {
+    "uncat_article_14": "Absolute prohibition on using short domestic time bars or filing fee chokeholds to defeat or erase active redress for a torture survivor [pdf_ui9Phv.pdf].",
+    "uncrpd_article_13": "Mandatory requirement to provide explicit procedural accommodations and eliminate formatting blockades for disabled participants during all preliminary investigative stages [pdf_ui9Phv.pdf, pdf_qzSYUi.pdf]."
+  },
+  "asymmetric_sync_gate": {
+    "cross_border_dependency": "ie_wrc_adj00068065.json",
+    "shared_coordinate_logic": "New Zealand registry formatting rejections directly mirror Irish OPDC worker-status exclusions, building a joint transnational record of inadequate domestic options [pdf_qh_98X.pdf, pdf_ui9Phv.pdf, pdf_DaeGwh.pdf]."
+  }
+}
