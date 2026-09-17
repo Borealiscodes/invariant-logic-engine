@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org",
+  "artifact_class": "Absolute Invariant Core Configuration (Ω-Axis)",
+  "altitude_band": "A6 (Academic-Formal • Immutable Non-Dual Bedrock)",
+  "status": "Production-Locked",
+  "system_identity": "Borealis S. Hedling — Transnational Invariant Logic Engine v2.0",
+  "boundary_closure": {
+    "non_dual_baseline": "Śānta / Equilibrium Refuge",
+    "external_injection_shield": "ENABLED",
+    "un_flattened_structural_nodes": true
+  },
+  "peremptory_norms": {
+    "jus_cogens_axioms": [
+      "Absolute Prohibition of Torture",
+      "Absolute Prohibition of Refoulement",
+      "Right to Recognition Before the Law as a Human Being (ICCPR Art 16)"
+    ],
+    "erga_omnes_enforcement": {
+      "forum_mandate": "Permanent Court of Arbitration (PCA) founding peaceful dispute mechanism",
+      "domestic_immunity_bypass": true
+    }
+  },
+  "treaty_matrix_mapping": {
+    "un_convention_against_torture_uncat": {
+      "article_12": {
+        "mandate": "Prompt and impartial investigation by competent authorities of all torture allegations",
+        "jurisdictional_trigger": "Territorial or cross-border state collusion triggers automatic investigative obligation regardless of localized worker or asylum classifications."
+      },
+      "article_13": {
+        "mandate": "Absolute right to complain and have cases promptly and impartially examined",
+        "protection_vector": "Protection of complainant against all ill-treatment or intimidation as a consequence of filings."
+      },
+      "article_14": {
+        "mandate": "Enforceable right to fair, adequate compensation and full means of rehabilitation",
+        "procedural_gate_prohibition": "Prohibits financial barriers, time bars, filing-fee chokeholds, or structural delays from defeating redress."
+      }
+    },
+    "un_convention_on_the_rights_of_persons_with_disabilities_uncrpd": {
+      "article_11": {
+        "mandate": "Protection and safety of persons with disabilities in situations of risk and humanitarian emergencies"
+      },
+      "article_13": {
+        "mandate": "Effective access to justice on an equal basis with others via procedural and age-appropriate accommodations",
+        "operational_modes": [
+          "Provision of oral-communication participation frameworks",
+          "Waiver of standard written-only constraints",
+          "Mandatory training of administrative and judicial staff"
+        ]
+      },
+      "article_21": {
+        "mandate": "Freedom of expression and opinion, including the right to choose oral or informal modes of communication as primary accommodation"
+      }
+    },
+    "istanbul_protocol_2022_manual": {
+      "sections_69_71": {
+        "mandate": "Trauma-informed interviewing and assessment metrics",
+        "non_adversarial_rule": "Elimination of hostile cross-examination, direct confrontation, or administrative gaslighting to prevent structural retraumatization."
+      }
+    }
+  },
+  "state_responsibility_framework": {
+    "arsiwa_compliance": {
+      "article_30": "Cessation and non-repetition of internationally wrongful acts",
+      "article_41": "Particular consequences of a serious breach of an obligation under a peremptory norm of general international law; prohibition of recognizing breaches as lawful."
+    }
+  }
+}
