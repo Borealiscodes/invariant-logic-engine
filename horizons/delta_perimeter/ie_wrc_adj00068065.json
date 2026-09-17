@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org",
+  "artifact_class": "Perimeter Local Forum Mapping Data Block (Δ-Axis)",
+  "altitude_band": "A4 (Procedural Ingestion Layer)",
+  "status": "Production-Locked",
+  "node_id": "IE-WRC-ADJ-00068065",
+  "forum_metadata": {
+    "tribunal": "Workplace Relations Commission (WRC)",
+    "territory": "Ireland",
+    "primary_case_number": "ADJ-00068065",
+    "associated_complaints": [
+      {
+        "case_number": "CA-00083972",
+        "respondent": "National Advocacy Service (NAS)",
+        "filing_date": "2026-05-10"
+      },
+      {
+        "case_number": "CA-00084284",
+        "respondent": "Trinity College Dublin (TCD)",
+        "filing_date": "2026-05-18"
+      },
+      {
+        "case_number": "CA-00084294",
+        "respondent": "Commission for Public Service Appointments (CPSA)",
+        "filing_date": "2026-05-18"
+      },
+      {
+        "case_number": "CA-00084751",
+        "respondent": "The Central Bank of Ireland",
+        "filing_date": "2026-06-01"
+      },
+      {
+        "case_number": "PENDING_REGISTRATION",
+        "respondent": "The Data Protection Commissioner (DPC)",
+        "filing_date": "2026-06-01"
+      }
+    ]
+  },
+  "respondent_consortium": [
+    "Health Service Executive (HSE)",
+    "SPIRASI (Center for Care of Survivors of Torture)",
+    "International Protection Appeals Tribunal (IPAT)",
+    "National Advocacy Service (NAS)",
+    "Trinity College Dublin (TCD)",
+    "Commission for Public Service Appointments (CPSA)",
+    "Central Bank of Ireland",
+    "Data Protection Commissioner"
+  ],
+  "procedural_relief_sought": {
+    "consolidation_request": {
+      "status": "ACTIVE_APPLICATION",
+      "target_cases": ["CA-00084751", "CA-00083972", "CA-00084284", "CA-00084294", "PENDING_REGISTRATION"],
+      "legal_basis": "Common cause of action addressing systemic financial exploitation, failure to accommodate, and privacy violations against a neurodivergent human rights defender."
+    },
+    "interim_stay": {
+      "status": "PENDING_ADJUDICATION",
+      "purpose": "Temporary cessation of all domestic tribunal activities pending medical evacuation and voluntary return to the United Kingdom.",
+      "treaty_anchor": "UNCRPD Article 16(4) mandate to facilitate physical, cognitive, and psychological recovery in a safe, dignified environment."
+    }
+  },
+  "factual_chronology_logs": {
+    "2026-04-02": "Filed original complaint against HSE for direct failure to execute rehabilitation obligations under UNCAT Article 14.",
+    "2026-05-04": "Filed complaint against SPIRASI for punitive clinical gatekeeping and failure to accommodate a trauma-informed self-referral.",
+    "2026-05-05": "Filed complaint against IPAT for administrative obstruction, withholding summary judgment since January 12, 2026, and utilizing asylum procedures as a SLAPP matrix to delegitimize the February 26, 2026 ICC referral against Jim O'Callaghan."
+  },
+  "asymmetric_flattening_trigger": {
+    "procedural_deadlock_condition": "Any attempt by the WRC to separate these actions, split the multi-agency consortium, or deny the interim stay request triggers an immediate Lambda holonomy collapse rule.",
+    "destination_track": "Permanent Court of Arbitration (PCA) Hague Annex File Room"
+  }
+}
