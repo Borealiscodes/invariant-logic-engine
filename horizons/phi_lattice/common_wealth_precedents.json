@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org",
+  "artifact_class": "Transnational Cross-Silo Symmetry Integration Lattice (Φ-Axis)",
+  "altitude_band": "A5 (Cross-Altitude Symmetry Alignment Field)",
+  "status": "Production-Locked",
+  "lattice_node": "PHI-COMMONWEALTH-PRECEDENTS",
+  "structural_alignment": {
+    "jurisdiction_nodes": ["UK", "IE", "NZ"],
+    "governing_doctrine": "Nemo Judex in Causa Sua (No one should be a judge in their own cause)",
+    "purpose": "Phase-aligning executive branch and crown prosecution conflict configurations to defeat bad-faith statutory gatekeeping."
+  },
+  "precedent_vectors": [
+    {
+      "source_silo": "UK Crown Prosecution Service (CPS)",
+      "legal_finding": "Statutory executive or attorney-general consent gates are legally void or cannot be required in universal jurisdiction torture prosecutions when the gatekeeping authority is directly implicated or conflicted [pdf_ui9Phv.pdf].",
+      "treaty_compliance_anchor": "UNCAT Article 12 & 13 mandatory prompt investigation protocols override domestic gatekeeping conditions [pdf_ui9Phv.pdf]."
+    },
+    {
+      "target_silo": "New Zealand Court of Appeal / Crown Law",
+      "transplanted_logic": "The UK CPS principle applies symmetrically to New Zealand under the Crimes of Torture Act 1989 and Section 15 of the Criminal Procedure Act 2011 [pdf_ui9Phv.pdf].",
+      "operative_bypass": "The Attorney General or Solicitor-General cannot invoke filing consent barriers to insulate territorial actors (such as Greg Robins or High Court registries) from cross-border torture liability [pdf_ui9Phv.pdf, pdf_qzSYUi.pdf]."
+    },
+    {
+      "target_silo": "Ireland High Court Central Office / WRC",
+      "transplanted_logic": "A domestic regulatory or court administrative gatekeeper cannot use stamp duties, formatting rules, or worker-status boundaries to insulate state actors from active torture disclosures [pdf_Is8xuv.pdf, pdf_rN0GnW.pdf, pdf_DaeGwh.pdf].",
+      "operative_bypass": "Invoking Section 134 CJA 1988 equivalent frameworks and GDPR Article 16 to compel immediate record rectification over administrative minimization [pdf_Is8xuv.pdf]."
+    }
+  ],
+  "interlocking_symmetry_rules": {
+    "cross_border_dependency_gate": {
+      "condition": "If any Commonwealth registry utilizes local rules (e.g., NZ High Court Rule 1.21(1)) to suppress historical evidence of refoulement, it automatically triggers a phase-aligned conflict flag in the global engine record [pdf_ui9Phv.pdf, pdf_qzSYUi.pdf].",
+      "action": "The engine logs the failure as a cross-border pattern of systemic bad faith rather than an isolated domestic clerk error [pdf_qh_98X.pdf]."
+    }
+  }
+}
