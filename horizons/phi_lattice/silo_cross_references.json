@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org",
+  "artifact_class": "Transnational Cross-Silo Symmetry Integration Lattice (Φ-Axis)",
+  "altitude_band": "A5 (Cross-Altitude Symmetry Alignment Field)",
+  "status": "Production-Locked",
+  "lattice_node": "PHI-SILO-CROSS-REFERENCES",
+  "structural_alignment": {
+    "jurisdiction_nodes": ["IE", "NZ"],
+    "analytical_framework": "Structural Friction Analysis / Silo Contradiction Mapping",
+    "purpose": "Exposing interlocking transnational evasion strategies by documenting where domestic agencies utilize non-aligned procedural boundaries to collectively suppress international human rights obligations."
+  },
+  "cross_silo_contradiction_map": [
+    {
+      "contradiction_id": "IE-OPDC-VS-NZ-REGISTRY",
+      "silo_a": {
+        "agency": "Office of the Protected Disclosures Commissioner (OPDC) — Ireland",
+        "action_date": "2026-06-25",
+        "evasion_mechanism": "Invoked a localized, narrow employment constraint, asserting a total lack of 'worker status' to refuse investigation of a valid transnational disclosure [pdf_DaeGwh.pdf].",
+        "breached_treaty_instruction": "UNCAT Article 12 absolute territorial mandate to promptly investigate all torture disclosures, completely independent of domestic labor classifications [pdf_DaeGwh.pdf]."
+      },
+      "silo_b": {
+        "agency": "High Court Wellington Registry Office — New Zealand",
+        "action_date": "2026-06-09",
+        "evasion_mechanism": "Invoking High Court Rule 1.21(1) formatting restrictions to deny the physical filing of 'Hedling v. The Governor General of New Zealand' [pdf_qzSYUi.pdf].",
+        "breached_treaty_instruction": "UNCRPD Article 13 mandatory access to justice adjustments requiring courts to waive restrictive procedural formatting barriers for disabled litigants [pdf_ui9Phv.pdf, pdf_qzSYUi.pdf]."
+      },
+      "symmetry_diagnostic": "Both sovereign silos operate in phase-aligned unison [pdf_qh_98X.pdf]. They utilize separate, non-communicating administrative loopholes (employment status vs. font/document layout rules) to achieve an identical illicit output: ensuring that active state violations of the Crimes of Torture Act 1989 and the Geneva Conventions remain entirely insulated from legal oversight [pdf_ui9Phv.pdf, pdf_qzSYUi.pdf, pdf_DaeGwh.pdf]."
+    }
+  ],
+  "integrated_audit_trail": {
+    "inter_departmental_deadlock": {
+      "metric": "Exhaustion of Domestic Remedies",
+      "verification_trail": [
+        "WRC consolidation tracking loop logs multi-agency refusal to provide an active, safe, non-adversarial rehabilitation forum [pdf_rN0GnW.pdf, pdf_qh_98X.pdf].",
+        "New Zealand Court of Appeal leave application tracks continuous lower-registry gatekeeping to insulate public defenders from territorial liability [pdf_ui9Phv.pdf, pdf_qzSYUi.pdf].",
+        "Irish LSRA registry tracks immediate minimization of protected whistleblowing disclosures by Ombudsman agents [pdf_Is8xuv.pdf]."
+      ],
+      "topological_conclusion": "The combined intersections of these administrative gaps provide absolute mathematical confirmation of an unavailable, corrupted domestic legal network, executing the mandatory jurisdictional hook required to activate the Permanent Court of Arbitration track [pdf_qh_98X.pdf]."
+    }
+  }
+}
