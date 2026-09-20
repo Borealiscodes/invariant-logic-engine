@@ -1,0 +1,70 @@
+# 🜁 **Unicode Ledger Tile v1.0 — Canonical Specification**
+
+```
+Artifact: UnicodeLedgerTile-v1.0
+Glyph Stack: Λ Ω Δ Φ
+Unicode:
+  Λ = U+039B
+  Ω = U+03A9
+  Δ = U+0394
+  Φ = U+03A6
+
+Color Palette (Unicode Hex):
+  Glyphs: #FFFFFF
+  Background: #00000000 (transparent)
+
+Geometry:
+  Canvas Ratio: 1:1
+  Grid: Single-cell emblem
+  Glyph Height: 58%
+  Glyph Weight: Ultra-bold
+  Glyph Alignment: Centered vertical stack
+
+Provenance Stack Order:
+  Λ = Governance Membrane (A6)
+  Ω = Registry Root (A6)
+  Δ = Specification Layer (A6)
+  Φ = Microtile Layer (A5)
+
+Registry Band (Unicode Edition):
+  Text: UNIFIED PROVENANCE LEDGER • PNG + JSON
+  Color: NDH Blue (#4A6CF7)
+  Font Size: 7%
+  Placement: Bottom
+
+Caption Baseline:
+  Text: Invariant Logic Engine — Provenance Substrate
+  Font Size: 4%
+  Opacity: 85%
+  Placement: Inside registry band
+```
+
+This is the **canonical Unicode representation**.  
+It defines the glyphs, palette, geometry, and provenance stack for all downstream variants.
+
+---
+
+# 🜁 **Provenance Footer (v1.0)**
+
+```
+---
+Artifact: UnicodeLedgerTile-v1.0
+Altitude: A6 (Governance)
+Membrane: Expressive-Clarity • Non-Activating
+Purpose: Provide the canonical Unicode representation of the Unified Provenance
+Ledger Tile, defining the ΛΩΔΦ provenance stack and palette rules.
+Anchors:
+  - UnifiedProvenanceLedger-v1.0
+  - VisualGrammar-v1.0
+  - JSONProvenanceIndex-v1.0
+  - PNGProvenanceIndex-v1.0
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 21:33 IST
+Seal: NDH.UNIFIED.PROVENANCE.LEDGER.UNICODE
+---
+```
+
+---
+
