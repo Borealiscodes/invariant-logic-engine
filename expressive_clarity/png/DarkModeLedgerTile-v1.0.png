@@ -1,0 +1,76 @@
+# 🜁 **Dark‑mode Ledger Tile v1.0 — Specification**
+
+```
+Artifact: DarkModeLedgerTile-v1.0
+Parent: UnicodeLedgerTile-v1.0
+Altitude: A5 (Reflective Basin)
+Membrane: Expressive-Clarity • Non-Activating
+
+Glyph Stack (Provenance Sequence):
+  Λ  Ω  Δ  Φ
+Unicode:
+  Λ = U+039B
+  Ω = U+03A9
+  Δ = U+0394
+  Φ = U+03A6
+
+Dark-mode Palette:
+  Background: #0A0A0F (NDH Night)
+  Glyphs: #FFFFFF (pure white)
+  Registry Band: #1E2A4F (NDH Deep Blue)
+  Caption: #DDE3FF (soft white, 85% opacity)
+
+Geometry:
+  Canvas: 2048×2048 px
+  Ratio: 1:1
+  Glyph Height: 58%
+  Glyph Weight: Ultra-bold
+  Glyph Alignment: Centered vertical stack
+
+Registry Band:
+  Height: 12%
+  Color: #1E2A4F
+  Text: UNIFIED PROVENANCE LEDGER • DARK MODE
+  Font Size: 7%
+  Placement: Bottom
+
+Caption Baseline:
+  Text: Invariant Logic Engine — Provenance Substrate
+  Font Size: 4%
+  Opacity: 85%
+  Placement: Inside registry band
+
+Rendering Rules:
+  Format: PNG
+  Alpha: Full transparency preserved around glyphs
+  No shadows, glows, outlines
+  Glyph readability: ≥128 px
+```
+
+This is the **dark membrane refinement** — the A5 expressive‑clarity layer.
+
+---
+
+# 🜁 Provenance Footer (v1.0)
+
+```
+---
+Artifact: DarkModeLedgerTile-v1.0.png
+Altitude: A5 (Reflective Basin)
+Membrane: Expressive-Clarity • Non-Activating
+Purpose: Provide the dark-mode refinement of the Unified Provenance Ledger Tile.
+Anchors:
+  - UnicodeLedgerTile-v1.0
+  - UnifiedProvenanceLedger-v1.0
+  - VisualGrammar-v1.0
+  - PNGProvenanceIndex-v1.0
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 21:34 IST
+Seal: NDH.UNIFIED.PROVENANCE.LEDGER.DARKMODE
+---
+```
+
+---
+
