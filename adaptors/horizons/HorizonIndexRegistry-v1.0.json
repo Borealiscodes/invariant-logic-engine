@@ -1,0 +1,64 @@
+{
+  "artifact": "HorizonIndexRegistry-v1.0",
+  "version": "1.0",
+  "altitude": {
+    "A2": "Engine Structure",
+    "A6": "Governance Membrane"
+  },
+  "membrane": "Structural-Non-Activating",
+  "non_activation": true,
+
+  "horizons": {
+    "Ω": {
+      "name": "Omega",
+      "descriptor_class": "OmegaDescriptor",
+      "unicode": "U+03A9",
+      "microtile_ref": "OmegaMicrotile-v1.0",
+      "visual_grammar_ref": "VisualGrammar-v1.0"
+    },
+    "Δ": {
+      "name": "Delta",
+      "descriptor_class": "DeltaDescriptor",
+      "unicode": "U+0394",
+      "microtile_ref": "DeltaMicrotile-v1.0",
+      "visual_grammar_ref": "VisualGrammar-v1.0"
+    },
+    "Φ": {
+      "name": "Phi",
+      "descriptor_class": "PhiDescriptor",
+      "unicode": "U+03A6",
+      "microtile_ref": "PhiMicrotile-v1.0",
+      "visual_grammar_ref": "VisualGrammar-v1.0"
+    },
+    "Λ": {
+      "name": "Lambda",
+      "descriptor_class": "LambdaDescriptor",
+      "unicode": "U+039B",
+      "microtile_ref": "LambdaMicrotile-v1.0",
+      "visual_grammar_ref": "VisualGrammar-v1.0"
+    }
+  },
+
+  "aliases": {
+    "Omega": "Ω",
+    "Delta": "Δ",
+    "Phi": "Φ",
+    "Lambda": "Λ"
+  },
+
+  "registry_metadata": {
+    "supports_lookup": true,
+    "lookup_keys": ["Ω", "Δ", "Φ", "Λ", "Omega", "Delta", "Phi", "Lambda"],
+    "container_safe": true,
+    "activation": "none",
+    "ingestion": "none"
+  },
+
+  "cross_refs": {
+    "tile_spec": "HorizonRegistryTileSpec-v1.0",
+    "microtile_set": "MicrotileSet-v1.0",
+    "visual_grammar": "VisualGrammar-v1.0"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling
