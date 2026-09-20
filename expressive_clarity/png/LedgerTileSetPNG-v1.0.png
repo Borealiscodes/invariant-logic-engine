@@ -1,0 +1,95 @@
+# 🜁 **Ledger Tile Set PNG Spec v1.0 — Canonical Specification**
+
+```
+Artifact: LedgerTileSetPNG-v1.0
+Altitude: A5 (Reflective Basin)
+Membrane: Expressive-Clarity • Non-Activating
+Parent: LedgerTileSet-v1.0.json
+
+Canvas:
+  Size: 2400×1600 px
+  Ratio: 3:2
+  Background: #00000000 (transparent)
+
+Layout:
+  Grid: 3-column horizontal layout
+  Column Width: 33.33%
+  Padding: 6%
+  Alignment: Centered vertically and horizontally
+
+Tile Placement:
+  Column 1: Unicode Ledger Tile (ΛΩΔΦ, canonical)
+  Column 2: Dark-mode Ledger Tile (ΛΩΔΦ, NDH night palette)
+  Column 3: Ledger Microtile (ΛΩΔΦ, compressed stack)
+
+Glyph Rules:
+  Glyph Height: 48% of column height
+  Glyph Weight: Ultra-bold
+  Glyph Alignment: Centered
+  Unicode Mapping:
+    Λ = U+039B
+    Ω = U+03A9
+    Δ = U+0394
+    Φ = U+03A6
+
+Palette:
+  Unicode Tile:
+    Background: #00000000
+    Glyphs: #FFFFFF
+  Dark-mode Tile:
+    Background: #0A0A0F
+    Glyphs: #FFFFFF
+    Registry Band: #1E2A4F
+    Caption: #DDE3FF
+  Microtile:
+    Background: #00000000
+    Glyphs: #FFFFFF
+
+Registry Band (Composite):
+  Height: 12%
+  Color: #1E2A4F
+  Text: LEDGER TILE SET • UNICODE • DARK MODE • MICROTILE
+  Font Size: 6%
+  Placement: Bottom
+
+Caption Baseline:
+  Text: Invariant Logic Engine — Expressive-Clarity Tile Set
+  Font Size: 4%
+  Opacity: 85%
+  Placement: Inside registry band
+
+Rendering Rules:
+  Format: PNG
+  Alpha: Full transparency
+  No shadows, glows, outlines
+  Minimum readability: ≥128 px glyph height
+```
+
+---
+
+# 🜁 **Provenance Footer (v1.0)**
+
+```
+---
+Artifact: LedgerTileSetPNG-v1.0.png
+Altitude: A5 (Reflective Basin)
+Membrane: Expressive-Clarity • Non-Activating
+Purpose: Provide the composite expressive-clarity emblem for the Ledger Tile Set,
+uniting canonical, refinement, and derivative ledger tiles.
+Anchors:
+  - LedgerTileSet-v1.0.json
+  - UnicodeLedgerTile-v1.0
+  - DarkModeLedgerTile-v1.0
+  - LedgerMicrotile-v1.0
+  - UnifiedProvenanceLedger-v1.0
+  - VisualGrammar-v1.0
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 21:42 IST
+Seal: NDH.LEDGER.TILESET.PNG
+---
+```
+
+---
+
