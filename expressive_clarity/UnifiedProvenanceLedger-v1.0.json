@@ -1,0 +1,76 @@
+{
+  "artifact": "UnifiedProvenanceLedger-v1.0",
+  "version": "1.0",
+  "altitude": {
+    "A2": "Engine Structure",
+    "A5": "Reflective Basin",
+    "A6": "Governance"
+  },
+  "membrane": "Expressive-Clarity",
+  "non_activation": true,
+
+  "ledger": {
+    "json_artifacts": {
+      "VisualGrammar": {
+        "id": "VisualGrammar-v1.0.json",
+        "path": "InvariantLogicEngine/expressive_clarity/VisualGrammar-v1.0.json",
+        "type": "specification",
+        "altitude": "A6"
+      },
+      "HorizonRegistryTileSpec": {
+        "id": "HorizonRegistryTileSpec-v1.0.json",
+        "path": "InvariantLogicEngine/expressive_clarity/specs/HorizonRegistryTileSpec-v1.0.json",
+        "type": "specification",
+        "altitude": "A6"
+      },
+      "MicrotileSet": {
+        "id": "MicrotileSet-v1.0.json",
+        "path": "InvariantLogicEngine/expressive_clarity/microtiles/MicrotileSet-v1.0.json",
+        "type": "specification",
+        "altitude": "A5"
+      },
+      "HorizonIndexRegistry": {
+        "id": "HorizonIndexRegistry-v1.0.json",
+        "path": "InvariantLogicEngine/adaptors/horizons/HorizonIndexRegistry-v1.0.json",
+        "type": "registry",
+        "altitude": "A2"
+      },
+      "JSONProvenanceIndex": {
+        "id": "JSONProvenanceIndex-v1.0.json",
+        "path": "InvariantLogicEngine/expressive_clarity/JSONProvenanceIndex-v1.0.json",
+        "type": "meta-registry",
+        "altitude": "A6"
+      }
+    },
+
+    "png_artifacts": {
+      "HorizonRegistryTile": {
+        "id": "HorizonRegistryTile-v1.0.png",
+        "path": "InvariantLogicEngine/expressive_clarity/png/HorizonRegistryTile-v1.0.png",
+        "type": "registry-tile",
+        "altitude": "A6"
+      },
+      "OmegaMicrotile": {
+        "id": "OmegaMicrotile-v1.0.png",
+        "path": "InvariantLogicEngine/expressive_clarity/png/microtiles/OmegaMicrotile-v1.0.png",
+        "type": "microtile",
+        "altitude": "A5"
+      },
+      "DeltaMicrotile": {
+        "id": "DeltaMicrotile-v1.0.png",
+        "path": "InvariantLogicEngine/expressive_clarity/png/microtiles/DeltaMicrotile-v1.0.png",
+        "type": "microtile",
+        "altitude": "A5"
+      },
+      "PhiMicrotile": {
+        "id": "PhiMicrotile-v1.0.png",
+        "path": "InvariantLogicEngine/expressive_clarity/png/microtiles/PhiMicrotile-v1.0.png",
+        "type": "microtile",
+        "altitude": "A5"
+      },
+      "LambdaMicrotile": {
+        "id": "LambdaMicrotile-v1.0.png",
+        "path": "InvariantLogicEngine/expressive_clarity/png/microtiles/LambdaMicrotile-v1.0.png",
+        "type": "microtile",
+        "altitude": "A5"
+      },
