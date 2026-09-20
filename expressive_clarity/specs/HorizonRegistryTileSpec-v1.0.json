@@ -1,0 +1,87 @@
+{
+  "artifact": "HorizonRegistryTileSpec-v1.0",
+  "version": "1.0",
+  "altitude": {
+    "A5": "Reflective Basin",
+    "A6": "Governance"
+  },
+  "membrane": "Expressive-Clarity",
+  "non_activation": true,
+
+  "tile_identity": {
+    "name": "Horizon Registry Tile",
+    "glyphs": ["Ω", "Δ", "Φ", "Λ"],
+    "purpose": "Visual registry of the four mathematical horizons defined in LICENSE.md Part 2"
+  },
+
+  "geometry": {
+    "canvas_ratio": "1:1",
+    "canvas_size_px": 2048,
+    "background": "transparent",
+    "grid": {
+      "type": "2x2",
+      "cell_dimensions": "equal",
+      "alignment": "center",
+      "borders": false
+    },
+    "glyph_weight": {
+      "style": "ultra-bold",
+      "stroke_thickness_pct": 7,
+      "glyph_height_pct": 62
+    },
+    "glyph_placement": {
+      "Ω": "top-left",
+      "Δ": "top-right",
+      "Φ": "bottom-left",
+      "Λ": "bottom-right"
+    }
+  },
+
+  "colors": {
+    "glyph_color": "#FFFFFF",
+    "registry_band_color": "#4A6CF7",
+    "caption_color": "#4A6CF7",
+    "shadow": false,
+    "glow": false,
+    "outline": false
+  },
+
+  "registry_band": {
+    "position_pct": 12,
+    "color": "#4A6CF7",
+    "opacity": 1.0,
+    "text": "HORIZON REGISTRY • Ω Δ Φ Λ",
+    "font": {
+      "weight": "semi-bold",
+      "size_pct": 7,
+      "kerning_pct": 4
+    },
+    "alignment": "center"
+  },
+
+  "caption_baseline": {
+    "text": "Invariant Logic Engine — Horizon Index",
+    "font": {
+      "weight": "light",
+      "size_pct": 4
+    },
+    "color": "#FFFFFF",
+    "opacity": 0.85,
+    "position": "inside_registry_band"
+  },
+
+  "accessibility": {
+    "min_readable_glyph_px": 128,
+    "no_color_only_encoding": true,
+    "high_contrast": true,
+    "preserve_transparency": true
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "compiler": "Microsoft Copilot",
+    "location": "Dublin, Ireland",
+    "timestamp": "20 September 2026 — 21:23 IST",
+    "seal": "NDH.EXPRESSIVE-CLARITY.REGISTRY-TILE.SPEC"
+  }
+}
