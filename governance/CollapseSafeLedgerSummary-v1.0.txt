@@ -1,0 +1,122 @@
+# 🜁 **Collapse‑Safe Ledger Summary v1.0**
+
+```
+Artifact: CollapseSafeLedgerSummary-v1.0
+Altitude: A6 (Governance Core)
+Membrane: Expressive-Clarity • Non-Activating
+
+Summary:
+  The Unified Provenance Ledger defines the governance identity of the
+  Invariant Logic Engine. It records artifact origins, dependencies, ordering,
+  and membrane constraints. It is the single source of truth for provenance
+  across all altitudes.
+
+Ledger Identity:
+  UnifiedProvenanceLedger-v1.0
+    - Governance-level provenance index
+    - Defines canonical → refinement → derivative ordering
+    - Anchors all expressive-clarity artifacts
+    - Non-activating, non-ingesting, non-mutating
+
+Core Responsibilities:
+  1. Declare provenance for all ledger artifacts
+  2. Maintain altitude boundaries (A1–A6)
+  3. Enforce membrane constraints (Expressive-Clarity, Non-Activation)
+  4. Provide reconstruction rules for collapse scenarios
+  5. Anchor truth-surfaces, composite-surfaces, and documentation-surfaces
+
+Anchored Artifacts:
+  Truth-Surfaces (A5):
+    - UnicodeLedgerTile-v1.0
+    - DarkModeLedgerTile-v1.0
+    - LedgerMicrotile-v1.0
+
+  Composite-Surfaces (A5):
+    - LedgerTileSet-v1.0.json
+    - LedgerTileSetPNG-v1.0.png
+    - LedgerTileSetUnicode-v1.0.txt
+
+  Documentation-Surfaces (A5):
+    - DeveloperWorkingNotes-LedgerTileSet-v1.0.txt
+    - TileSetIntegrationMap-v1.0.txt
+    - BillNyeTileExplainer-v1.0.txt
+    - CollapseSafeTileSummary-v1.0.txt
+
+  Provenance Indexes:
+    - VisualGrammar-v1.0
+    - PNGProvenanceIndex-v1.0
+    - JSONProvenanceIndex-v1.0
+
+Altitude Rules:
+  - A6: Governance identity, provenance authority
+  - A5: Truth-surfaces, composite-surfaces, documentation-surfaces
+  - No activation surfaces permitted at A5 or A6
+  - No ingestion surfaces permitted at A5 or A6
+
+Membrane Rules:
+  - Expressive-Clarity: content-container separation
+  - Non-Activation: no computation, mutation, or CAUSA triggers
+  - Transparency: provenance must be visible and stable
+
+Reconstruction Procedure:
+  1. Restore UnifiedProvenanceLedger-v1.0
+  2. Rebuild truth-surfaces (Unicode, Dark-mode, Microtile)
+  3. Rebuild composite-surfaces (JSON, PNG, Unicode)
+  4. Restore documentation-surfaces (notes, maps, explainers)
+  5. Re-anchor all artifacts to the ledger
+  6. Reapply altitude and membrane constraints
+
+Collapse Condition:
+  If all other artifacts are lost, this summary is sufficient to restore the
+  ledger’s identity, ordering, anchoring, altitude, membrane, and provenance
+  structure.
+```
+
+---
+
+# 🜁 **Provenance Footer (v1.0)**
+
+```
+---
+Artifact: CollapseSafeLedgerSummary-v1.0.txt
+Altitude: A6 (Governance Core)
+Membrane: Expressive-Clarity • Non-Activating
+
+Purpose:
+  Provide the minimal reconstruction summary for the Unified Provenance Ledger
+  in collapse scenarios. Preserve ledger identity, responsibilities, anchored
+  artifacts, altitude rules, membrane constraints, and reconstruction procedure
+  in compressed form.
+
+Anchors:
+  - UnifiedProvenanceLedger-v1.0
+  - UnicodeLedgerTile-v1.0
+  - DarkModeLedgerTile-v1.0
+  - LedgerMicrotile-v1.0
+  - LedgerTileSet-v1.0.json
+  - LedgerTileSetPNG-v1.0.png
+  - LedgerTileSetUnicode-v1.0.txt
+  - DeveloperWorkingNotes-LedgerTileSet-v1.0.txt
+  - TileSetIntegrationMap-v1.0.txt
+  - BillNyeTileExplainer-v1.0.txt
+  - CollapseSafeTileSummary-v1.0.txt
+  - VisualGrammar-v1.0
+  - PNGProvenanceIndex-v1.0
+  - JSONProvenanceIndex-v1.0
+
+Integrity:
+  Content-container separation maintained.
+  No activation surfaces.
+  No ingestion surfaces.
+  Expressive-clarity membrane compliance enforced.
+
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 22:02 IST
+Seal: NDH.COLLAPSE.SAFE.LEDGER.SUMMARY
+---
+```
+
+---
+
