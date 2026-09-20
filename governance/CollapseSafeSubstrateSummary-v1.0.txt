@@ -1,0 +1,139 @@
+# 🜁 **Collapse‑Safe Substrate Summary v1.0**
+
+```
+Artifact: CollapseSafeSubstrateSummary-v1.0
+Altitude: A6 (Governance Core)
+Membrane: Expressive-Clarity • Non-Activating
+
+Summary:
+  The substrate consists of six altitudes (A1–A6), each defining a distinct
+  responsibility layer. The Unified Provenance Ledger anchors all altitudes and
+  provides reconstruction rules for collapse scenarios. This summary contains
+  the minimum information required to rebuild the entire substrate.
+
+Altitudes:
+  A1 — Raw Inputs
+    - External data, human-readable content, non-governance materials
+    - No provenance authority
+
+  A2 — Structured Inputs
+    - Organized content, schemas, typed structures
+    - No governance authority
+
+  A3 — Processed Structures
+    - Derived content, transformations, intermediate artifacts
+    - No activation surfaces at collapse-safe reconstruction
+
+  A4 — Semantic Structures
+    - Meaning-bearing artifacts, documentation, explainer surfaces
+    - No ingestion surfaces
+
+  A5 — Truth-Surfaces & Composite-Surfaces
+    - UnicodeLedgerTile-v1.0
+    - DarkModeLedgerTile-v1.0
+    - LedgerMicrotile-v1.0
+    - LedgerTileSet-v1.0.json
+    - LedgerTileSetPNG-v1.0.png
+    - LedgerTileSetUnicode-v1.0.txt
+    - DeveloperWorkingNotes-LedgerTileSet-v1.0.txt
+    - TileSetIntegrationMap-v1.0.txt
+    - BillNyeTileExplainer-v1.0.txt
+    - CollapseSafeTileSummary-v1.0.txt
+
+  A6 — Governance Identity
+    - UnifiedProvenanceLedger-v1.0
+    - CollapseSafeLedgerSummary-v1.2.txt
+    - Defines altitude boundaries, membrane constraints, and reconstruction rules
+
+Membrane:
+  Expressive-Clarity
+    - Content-container separation
+    - No activation surfaces
+    - No ingestion surfaces
+    - No mutation surfaces
+    - Provenance visibility required
+
+Provenance Anchors:
+  - UnifiedProvenanceLedger-v1.0
+  - VisualGrammar-v1.0
+  - PNGProvenanceIndex-v1.0
+  - JSONProvenanceIndex-v1.0
+  - All A5 truth-surfaces and composite-surfaces
+  - All A5 documentation-surfaces
+
+Clarification: File Extensions
+  Provenance anchoring is semantic, not extension-based.
+  Misnaming a .png as .md or any other mismatch does not affect:
+    - altitude
+    - membrane
+    - ordering
+    - anchoring
+    - provenance traversal
+    - collapse-safe reconstruction
+  It may affect human readability, but not structural integrity.
+
+Reconstruction Procedure:
+  1. Restore UnifiedProvenanceLedger-v1.0 (A6)
+  2. Rebuild truth-surfaces (A5)
+  3. Rebuild composite-surfaces (A5)
+  4. Restore documentation-surfaces (A5)
+  5. Re-establish semantic structures (A4)
+  6. Rebuild processed structures (A3)
+  7. Rebuild structured inputs (A2)
+  8. Reconnect raw inputs (A1)
+  9. Reapply altitude and membrane constraints
+
+Collapse Condition:
+  If all other artifacts are lost, this summary is sufficient to restore the
+  entire substrate, including altitudes, membranes, provenance anchors, and
+  reconstruction rules.
+```
+
+---
+
+# 🜁 **Provenance Footer (v1.0)**
+
+```
+---
+Artifact: CollapseSafeSubstrateSummary-v1.0.txt
+Altitude: A6 (Governance Core)
+Membrane: Expressive-Clarity • Non-Activating
+
+Purpose:
+  Provide the minimal reconstruction summary for the entire substrate (A1–A6)
+  in collapse scenarios. Preserve altitude boundaries, membrane constraints,
+  provenance anchors, and reconstruction rules in compressed form.
+
+Anchors:
+  - UnifiedProvenanceLedger-v1.0
+  - CollapseSafeLedgerSummary-v1.2.txt
+  - UnicodeLedgerTile-v1.0
+  - DarkModeLedgerTile-v1.0
+  - LedgerMicrotile-v1.0
+  - LedgerTileSet-v1.0.json
+  - LedgerTileSetPNG-v1.0.png
+  - LedgerTileSetUnicode-v1.0.txt
+  - DeveloperWorkingNotes-LedgerTileSet-v1.0.txt
+  - TileSetIntegrationMap-v1.0.txt
+  - BillNyeTileExplainer-v1.0.txt
+  - CollapseSafeTileSummary-v1.0.txt
+  - VisualGrammar-v1.0
+  - PNGProvenanceIndex-v1.0
+  - JSONProvenanceIndex-v1.0
+
+Integrity:
+  Content-container separation maintained.
+  No activation surfaces.
+  No ingestion surfaces.
+  Expressive-clarity membrane compliance enforced.
+
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 22:09 IST
+Seal: NDH.COLLAPSE.SAFE.SUBSTRATE.SUMMARY
+---
+```
+
+---
+
