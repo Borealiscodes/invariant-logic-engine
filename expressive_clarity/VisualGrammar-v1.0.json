@@ -1,0 +1,100 @@
+{
+  "artifact": "VisualGrammar-v1.0",
+  "version": "1.0",
+  "altitude": {
+    "A5": "Reflective Basin",
+    "A6": "Governance Membrane"
+  },
+  "membrane": "Expressive-Clarity",
+  "non_activation": true,
+
+  "glyphs": {
+    "Omega": {
+      "glyph": "Ω",
+      "unicode": "U+03A9",
+      "color": "#FFFFFF",
+      "stroke_thickness_pct": 7,
+      "glyph_height_pct": 62
+    },
+    "Delta": {
+      "glyph": "Δ",
+      "unicode": "U+0394",
+      "color": "#FFFFFF",
+      "stroke_thickness_pct": 7,
+      "glyph_height_pct": 62
+    },
+    "Phi": {
+      "glyph": "Φ",
+      "unicode": "U+03A6",
+      "color": "#FFFFFF",
+      "stroke_thickness_pct": 7,
+      "glyph_height_pct": 62
+    },
+    "Lambda": {
+      "glyph": "Λ",
+      "unicode": "U+039B",
+      "color": "#FFFFFF",
+      "stroke_thickness_pct": 7,
+      "glyph_height_pct": 62
+    }
+  },
+
+  "tile": {
+    "canvas_ratio": "1:1",
+    "canvas_size_px": 2048,
+    "background": "transparent",
+    "grid": "2x2",
+    "glyph_alignment": "center",
+    "registry_band": {
+      "height_pct": 12,
+      "color": "#4A6CF7",
+      "opacity": 1.0,
+      "text": "HORIZON REGISTRY • Ω Δ Φ Λ",
+      "font_size_pct": 7
+    },
+    "caption_baseline": {
+      "text": "Invariant Logic Engine — Horizon Index",
+      "font_size_pct": 4,
+      "color": "#FFFFFF",
+      "opacity": 0.85
+    }
+  },
+
+  "microtiles": {
+    "canvas_ratio": "1:1",
+    "canvas_size_px": 1024,
+    "background": "transparent",
+    "glyph_height_pct": 70,
+    "registry_band": false,
+    "caption_baseline": false
+  },
+
+  "unicode_hex_palette": {
+    "glyph_color": "#FFFFFF",
+    "background_color": "#00000000"
+  },
+
+  "altitude_encoding": {
+    "A5": "glyph geometry",
+    "A6": "registry band and caption baseline"
+  },
+
+  "png_rules": {
+    "transparency": "full alpha",
+    "formats": ["png"],
+    "tile_size_px": 2048,
+    "microtile_size_px": 1024,
+    "readability_requirements": {
+      "glyph_min_size_px": 128,
+      "registry_band_min_size_px": 256
+    }
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "compiler": "Microsoft Copilot",
+    "location": "Dublin, Ireland",
+    "timestamp": "20 September 2026 — 21:21 IST",
+    "seal": "NDH.EXPRESSIVE-CLARITY.VISUAL-GRAMMAR"
+  }
+}
