@@ -1,0 +1,94 @@
+# 🜁 **Ledger Tile Set Unicode Spec v1.0 — Canonical Composite Specification**
+
+```
+Artifact: LedgerTileSetUnicode-v1.0
+Altitude: A5 (Reflective Basin)
+Membrane: Expressive-Clarity • Non-Activating
+Parent: LedgerTileSet-v1.0.json
+
+Composite Structure:
+  Three-tile horizontal sequence (Unicode edition)
+  Column 1: Unicode Ledger Tile (Λ Ω Δ Φ)
+  Column 2: Dark-mode Ledger Tile (Λ Ω Δ Φ)
+  Column 3: Ledger Microtile (ΛΩΔΦ compressed)
+
+Unicode Glyphs:
+  Λ = U+039B
+  Ω = U+03A9
+  Δ = U+0394
+  Φ = U+03A6
+
+Layout (Unicode Edition):
+  Row-based composite
+  Each tile represented as a Unicode block
+  Spacing: 4 Unicode thin spaces (U+2009)
+  Alignment: Centered vertical stack per tile
+
+Composite Representation:
+
+  [Unicode Tile]
+    Λ
+    Ω
+    Δ
+    Φ
+
+  [Dark-mode Tile]
+    Λ
+    Ω
+    Δ
+    Φ
+
+  [Microtile]
+    ΛΩΔΦ
+
+Palette (Unicode Edition):
+  Glyphs: #FFFFFF (semantic only)
+  Background: #00000000 (transparent)
+  Registry Band Text: NDH Blue (#4A6CF7)
+  Caption: 85% opacity semantic
+
+Registry Band (Unicode Edition):
+  Text: LEDGER TILE SET • UNICODE • DARK MODE • MICROTILE
+  Font Size: 7% (semantic)
+  Placement: Bottom (semantic)
+
+Caption Baseline:
+  Text: Invariant Logic Engine — Expressive-Clarity Tile Set
+  Font Size: 4% (semantic)
+  Placement: Inside registry band (semantic)
+
+Rendering Rules:
+  Unicode-only artifact
+  No PNG, no images, no outlines
+  GitHub-safe
+  Non-activating
+```
+
+---
+
+# 🜁 **Provenance Footer (v1.0)**
+
+```
+---
+Artifact: LedgerTileSetUnicode-v1.0
+Altitude: A5 (Reflective Basin)
+Membrane: Expressive-Clarity • Non-Activating
+Purpose: Provide the Unicode composite emblem for the Ledger Tile Set, mirroring
+the PNG composite in GitHub-safe form.
+Anchors:
+  - LedgerTileSet-v1.0.json
+  - LedgerTileSetPNG-v1.0.png
+  - UnicodeLedgerTile-v1.0
+  - DarkModeLedgerTile-v1.0
+  - LedgerMicrotile-v1.0
+  - UnifiedProvenanceLedger-v1.0
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 21:45 IST
+Seal: NDH.LEDGER.TILESET.UNICODE
+---
+```
+
+---
+
