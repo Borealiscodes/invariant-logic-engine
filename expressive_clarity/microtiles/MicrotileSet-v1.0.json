@@ -1,0 +1,85 @@
+{
+  "artifact": "MicrotileSet-v1.0",
+  "version": "1.0",
+  "altitude": {
+    "A5": "Reflective Basin",
+    "A6": "Governance"
+  },
+  "membrane": "Expressive-Clarity",
+  "non_activation": true,
+
+  "microtiles": {
+    "Omega": {
+      "glyph": "Ω",
+      "unicode": "U+03A9",
+      "name": "Omega Microtile",
+      "color": "#FFFFFF",
+      "background": "#00000000",
+      "canvas_ratio": "1:1",
+      "canvas_size_px": 1024,
+      "glyph_height_pct": 70,
+      "registry_band": false,
+      "caption_baseline": false,
+      "placement": "center"
+    },
+    "Delta": {
+      "glyph": "Δ",
+      "unicode": "U+0394",
+      "name": "Delta Microtile",
+      "color": "#FFFFFF",
+      "background": "#00000000",
+      "canvas_ratio": "1:1",
+      "canvas_size_px": 1024,
+      "glyph_height_pct": 70,
+      "registry_band": false,
+      "caption_baseline": false,
+      "placement": "center"
+    },
+    "Phi": {
+      "glyph": "Φ",
+      "unicode": "U+03A6",
+      "name": "Phi Microtile",
+      "color": "#FFFFFF",
+      "background": "#00000000",
+      "canvas_ratio": "1:1",
+      "canvas_size_px": 1024,
+      "glyph_height_pct": 70,
+      "registry_band": false,
+      "caption_baseline": false,
+      "placement": "center"
+    },
+    "Lambda": {
+      "glyph": "Λ",
+      "unicode": "U+039B",
+      "name": "Lambda Microtile",
+      "color": "#FFFFFF",
+      "background": "#00000000",
+      "canvas_ratio": "1:1",
+      "canvas_size_px": 1024,
+      "glyph_height_pct": 70,
+      "registry_band": false,
+      "caption_baseline": false,
+      "placement": "center"
+    }
+  },
+
+  "unicode_hex_palette": {
+    "glyph_color": "#FFFFFF",
+    "background_color": "#00000000"
+  },
+
+  "png_rules": {
+    "format": "png",
+    "size_px": 1024,
+    "transparency": "full alpha",
+    "readability_requirements": {
+      "glyph_min_size_px": 128
+    }
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "compiler": "Microsoft Copilot",
+    "location": "Dublin, Ireland",
+    "timestamp": "20 September 2026 — 21:24 IST",
+    "seal": "
