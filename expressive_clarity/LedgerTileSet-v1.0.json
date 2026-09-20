@@ -1,0 +1,101 @@
+{
+  "artifact": "LedgerTileSet-v1.0",
+  "version": "1.0",
+  "altitude": "A5",
+  "membrane": "Expressive-Clarity",
+  "non_activation": true,
+
+  "tiles": {
+    "unicode": {
+      "id": "UnicodeLedgerTile-v1.0",
+      "path": "InvariantLogicEngine/expressive_clarity/unicode/UnicodeLedgerTile-v1.0.txt",
+      "type": "unicode",
+      "glyphs": ["Λ", "Ω", "Δ", "Φ"],
+      "unicode_map": {
+        "Λ": "U+039B",
+        "Ω": "U+03A9",
+        "Δ": "U+0394",
+        "Φ": "U+03A6"
+      }
+    },
+    "dark_mode": {
+      "id": "DarkModeLedgerTile-v1.0.png",
+      "path": "InvariantLogicEngine/expressive_clarity/png/DarkModeLedgerTile-v1.0.png",
+      "type": "png",
+      "palette": {
+        "background": "#0A0A0F",
+        "glyphs": "#FFFFFF",
+        "registry_band": "#1E2A4F",
+        "caption": "#DDE3FF"
+      }
+    },
+    "microtile": {
+      "id": "LedgerMicrotile-v1.0.png",
+      "path": "InvariantLogicEngine/expressive_clarity/png/microtiles/LedgerMicrotile-v1.0.png",
+      "type": "png",
+      "glyph": "ΛΩΔΦ",
+      "compression": "stacked-compact",
+      "background": "#00000000"
+    }
+  },
+
+  "cross_refs": {
+    "canonical": "UnicodeLedgerTile-v1.0",
+    "refinement": "DarkModeLedgerTile-v1.0.png",
+    "derivative": "LedgerMicrotile-v1.0.png",
+    "provenance_ledger": "UnifiedProvenanceLedger-v1.0.json"
+  },
+
+  "integrity": {
+    "content_container_separation": true,
+    "alpha_required": true,
+    "format": ["unicode", "png"],
+    "schema_version": "1.0"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "compiler": "Microsoft Copilot",
+    "location": "Dublin, Ireland",
+    "timestamp": "20 September 2026 — 21:39 IST",
+    "seal": "NDH.LEDGER.TILESET.JSON"
+  }
+}
+
+---
+Artifact: LedgerTileSet-v1.0.json
+Altitude: A5 (Reflective Basin)
+Membrane: Expressive-Clarity • Non-Activating
+
+Purpose:
+  Provide the unified registry for the Unicode, Dark-mode, and Microtile
+  variants of the Unified Provenance Ledger Tile. Establish canonical →
+  refinement → derivative ordering for expressive-clarity tile traversal.
+
+Scope:
+  Tile-level provenance registry. No computation, no ingestion, no CAUSA
+  activation. Serves as a convenience index beneath the Unified Provenance
+  Ledger (A6).
+
+Anchors:
+  - UnicodeLedgerTile-v1.0
+  - DarkModeLedgerTile-v1.0
+  - LedgerMicrotile-v1.0
+  - UnifiedProvenanceLedger-v1.0
+  - VisualGrammar-v1.0
+  - PNGProvenanceIndex-v1.0
+  - JSONProvenanceIndex-v1.0
+
+Integrity:
+  Content-container separation enforced.
+  Alpha-channel requirements inherited from PNG provenance.
+  Unicode palette inherited from canonical tile.
+  Schema version: 1.0
+
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 21:40 IST
+Seal: NDH.LEDGER.TILESET.PROVENANCE
+---
+
