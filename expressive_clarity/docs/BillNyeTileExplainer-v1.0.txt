@@ -1,0 +1,148 @@
+# 🜁 **Bill Nye Tile Explainer — With Sophie Scholl Moral Clarity**  
+*(What the Ledger Tiles Actually Are)*
+
+> **Takeaway:**  
+> These tiles are **truth‑surfaces**.  
+> They exist so your system can **never lie about its own structure**.
+
+That’s the whole point.  
+Everything else is implementation detail.
+
+---
+
+## 🌐 **1. The Ledger Tiles Are Proof of Provenance**  
+In Bill‑Nye‑Tile terms:
+
+> “Imagine every part of your system wearing a tiny badge that says:  
+> *‘Here’s where I came from, here’s what I depend on, and here’s who I answer to.’*”
+
+In Sophie‑Scholl terms:
+
+> **A system without provenance is a system that can be abused.  
+> A system with provenance is a system that resists abuse.**
+
+Your tiles are the badges of **structural honesty**.
+
+---
+
+## 🧱 **2. The Unicode Tile — The Canonical Truth Glyph**  
+This is the **root tile**, the one that says:
+
+> “Here is the pure, unstyled truth of the ledger.  
+> No darkness, no decoration, no compression — just the glyphs.”
+
+Sophie‑Scholl clarity:
+
+> **Truth must be readable even when stripped of aesthetics.  
+> If the truth only exists in decoration, it isn’t truth.**
+
+This tile is the **bare moral backbone** of the ledger.
+
+---
+
+## 🌑 **3. The Dark‑Mode Tile — The Reflective Truth**  
+Bill‑Nye‑Tile voice:
+
+> “Same truth, different lighting.  
+> Because sometimes you need to see the structure in the dark.”
+
+Sophie‑Scholl clarity:
+
+> **Truth must survive in darkness.  
+> If your system only works in ideal conditions, it is not trustworthy.**
+
+The dark‑mode tile is the **resilience test** of your provenance.
+
+---
+
+## 🜂 **4. The Microtile — The Compressed Truth**  
+Bill‑Nye‑Tile voice:
+
+> “Shrink the truth down to pocket size.  
+> Same meaning, less surface area.”
+
+Sophie‑Scholl clarity:
+
+> **Truth must remain intact even when compressed.  
+> If compression distorts meaning, the system is corruptible.**
+
+The microtile is the **minimal unit of honesty**.
+
+---
+
+## 🧩 **5. The Tile Set — Truth in Multiplicity**  
+Bill‑Nye‑Tile voice:
+
+> “Put all three tiles together and you get a full weather report  
+> for how your system expresses truth across conditions.”
+
+Sophie‑Scholl clarity:
+
+> **Truth is not one surface.  
+> It is consistency across all surfaces.**
+
+The tile set is the **consistency check** of your provenance substrate.
+
+---
+
+## 🜁 **6. Why These Tiles Matter (The Moral Core)**  
+Sophie‑Scholl clarity, directly:
+
+> **Systems fail when people cannot see what is true.  
+> Systems become dangerous when people cannot see what is false.  
+> Provenance is the difference.**
+
+Your tiles are the **visual grammar of accountability**.
+
+They ensure:
+
+- **No hidden dependencies**  
+- **No invisible origins**  
+- **No silent mutations**  
+- **No untraceable artifacts**  
+- **No structural deceit**  
+
+They are the **moral infrastructure** of your architecture.
+
+---
+
+## 🧭 **7. What These Tiles *Are*, in One Sentence**  
+> **They are the surfaces where your system tells the truth about itself.**
+
+That’s the Sophie‑Scholl clarity.  
+That’s the Bill‑Nye recursion.  
+That’s the NDH‑safe definition.
+
+---
+
+### 🜁 Provenance footer
+
+```text
+---
+Artifact: BillNyeTileExplainer-v1.0.txt
+Altitude: A5 (Reflective Basin)
+Membrane: Expressive-Clarity • Non-Activating
+
+Purpose:
+  Provide a human-readable, morally explicit explanation of the ledger tiles as
+  truth-surfaces and provenance badges. Clarify the roles of Unicode, Dark-mode,
+  Microtile, and Tile Set artifacts in maintaining structural honesty and
+  accountability.
+
+Anchors:
+  - UnicodeLedgerTile-v1.0
+  - DarkModeLedgerTile-v1.0
+  - LedgerMicrotile-v1.0
+  - LedgerTileSet-v1.0.json
+  - LedgerTileSetPNG-v1.0.png
+  - LedgerTileSetUnicode-v1.0
+  - UnifiedProvenanceLedger-v1.0
+  - VisualGrammar-v1.0
+
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 21:52 IST
+Seal: NDH.BILLNYE.TILE.EXPLAINER
+---
+```
