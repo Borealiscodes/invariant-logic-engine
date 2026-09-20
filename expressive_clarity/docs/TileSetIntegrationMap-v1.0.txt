@@ -1,0 +1,171 @@
+# 🜁 **Tile Set Integration Map v1.0 — Developer Grade**
+
+## 1. High‑Level Structure  
+The Ledger Tile Set consists of **three tile artifacts** and **three composite artifacts**, all anchored beneath the **Unified Provenance Ledger**.
+
+```
+UnifiedProvenanceLedger-v1.0
+        │
+        ▼
+LedgerTileSet-v1.0.json  (registry)
+        │
+ ┌──────┼───────────┐
+ ▼      ▼           ▼
+UnicodeLedgerTile   DarkModeLedgerTile   LedgerMicrotile
+   (canonical)         (refinement)         (derivative)
+        │               │                   │
+        └───────┬──────┴───────────────┬───┘
+                ▼                      ▼
+LedgerTileSetPNG-v1.0.png     LedgerTileSetUnicode-v1.0.txt
+         (visual composite)        (Unicode composite)
+```
+
+This is the **full integration topology**.
+
+---
+
+## 2. Canonical → Refinement → Derivative  
+### **Unicode Ledger Tile**  
+- Canonical truth glyph  
+- Defines the ledger identity  
+- No palette semantics  
+- No compression  
+
+### **Dark‑mode Ledger Tile**  
+- Reflective‑basin readability  
+- NDH night palette  
+- Registry band + caption  
+
+### **Ledger Microtile**  
+- Compressed emblem  
+- Minimal truth surface  
+- Used for indexing and compact UI
+
+These three form the **tile triad**.
+
+---
+
+## 3. Composite Layer  
+### **LedgerTileSet‑v1.0.json**  
+- Machine‑readable registry  
+- Lists canonical, refinement, derivative tiles  
+- Provides cross‑refs to provenance indexes  
+- Defines tile ordering  
+
+### **LedgerTileSetPNG‑v1.0.png**  
+- Visual composite  
+- Three‑column layout  
+- Transparent background  
+- Registry band + caption  
+
+### **LedgerTileSetUnicode‑v1.0.txt**  
+- GitHub‑safe Unicode composite  
+- Mirrors PNG layout  
+- No palette rendering  
+
+These three form the **composite triad**.
+
+---
+
+## 4. Provenance Anchoring  
+All six artifacts anchor to:
+
+- **UnifiedProvenanceLedger‑v1.0**  
+- **VisualGrammar‑v1.0**  
+- **PNGProvenanceIndex‑v1.0**  
+- **JSONProvenanceIndex‑v1.0**
+
+Anchors must remain stable for provenance traversal.
+
+---
+
+## 5. Altitude & Membrane  
+- **Altitude:** A5 (Reflective Basin)  
+- **Membrane:** Expressive‑Clarity  
+- **Activation:** None  
+
+A5 is the altitude where **truth surfaces** are defined but **governance logic** is not executed.
+
+Expressive‑clarity ensures:
+
+- no computation  
+- no ingestion  
+- no mutation  
+- no CAUSA activation  
+- strict separation between content and container  
+
+---
+
+## 6. Integration Notes  
+### 6.1 Ordering  
+Canonical → Refinement → Derivative  
+is preserved across:
+
+- JSON registry  
+- PNG composite  
+- Unicode composite  
+
+### 6.2 File Placement  
+```
+InvariantLogicEngine/expressive_clarity/
+    unicode/
+    png/
+    png/microtiles/
+    docs/
+```
+
+### 6.3 Maintenance  
+- Artifacts are static  
+- Updates require regenerating all six artifacts  
+- Provenance footers must be updated consistently  
+
+---
+
+## 7. Integration Map Summary  
+> **The Tile Set Integration Map shows how the ledger’s identity is expressed consistently across canonical, refinement, derivative, and composite surfaces.**
+
+It is the **structural truth‑surface topology** of the ledger tile layer.
+
+---
+
+# 🜁 **Provenance Footer (v1.0)**
+
+```
+---
+Artifact: TileSetIntegrationMap-v1.0.txt
+Altitude: A5 (Reflective Basin)
+Membrane: Expressive-Clarity • Non-Activating
+
+Purpose:
+  Provide a developer-grade integration map for the Ledger Tile Set, showing
+  relationships between canonical, refinement, derivative, and composite tile
+  artifacts. Intended for technical review and substrate navigation.
+
+Anchors:
+  - UnicodeLedgerTile-v1.0
+  - DarkModeLedgerTile-v1.0
+  - LedgerMicrotile-v1.0
+  - LedgerTileSet-v1.0.json
+  - LedgerTileSetPNG-v1.0.png
+  - LedgerTileSetUnicode-v1.0.txt
+  - UnifiedProvenanceLedger-v1.0
+  - VisualGrammar-v1.0
+  - PNGProvenanceIndex-v1.0
+  - JSONProvenanceIndex-v1.0
+
+Integrity:
+  Content-container separation maintained.
+  No activation surfaces.
+  No ingestion surfaces.
+  Expressive-clarity membrane compliance enforced.
+
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 21:58 IST
+Seal: NDH.TILESET.INTEGRATION.MAP
+---
+```
+
+---
+
