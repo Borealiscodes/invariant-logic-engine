@@ -1,0 +1,71 @@
+{
+  "artifact": "JSONProvenanceIndex-v1.0",
+  "version": "1.0",
+  "altitude": {
+    "A2": "Engine Structure",
+    "A5": "Reflective Basin",
+    "A6": "Governance"
+  },
+  "membrane": "Expressive-Clarity",
+  "non_activation": true,
+
+  "artifacts": {
+    "VisualGrammar": {
+      "id": "VisualGrammar-v1.0",
+      "path": "InvariantLogicEngine/expressive_clarity/VisualGrammar-v1.0.json",
+      "altitude": "A6",
+      "type": "specification",
+      "purpose": "Defines visual grammar for expressive-clarity artifacts."
+    },
+    "HorizonRegistryTileSpec": {
+      "id": "HorizonRegistryTileSpec-v1.0",
+      "path": "InvariantLogicEngine/expressive_clarity/specs/HorizonRegistryTileSpec-v1.0.json",
+      "altitude": "A6",
+      "type": "specification",
+      "purpose": "Defines geometry, glyph placement, registry band, and caption rules."
+    },
+    "MicrotileSet": {
+      "id": "MicrotileSet-v1.0",
+      "path": "InvariantLogicEngine/expressive_clarity/microtiles/MicrotileSet-v1.0.json",
+      "altitude": "A5",
+      "type": "specification",
+      "purpose": "Defines Ω, Δ, Φ, Λ microtile geometry and Unicode palette."
+    },
+    "HorizonIndexRegistry": {
+      "id": "HorizonIndexRegistry-v1.0",
+      "path": "InvariantLogicEngine/adaptors/horizons/HorizonIndexRegistry-v1.0.json",
+      "altitude": "A2",
+      "type": "registry",
+      "purpose": "Structural registry mapping horizon descriptors and microtile references."
+    }
+  },
+
+  "cross_references": {
+    "VisualGrammar-v1.0": {
+      "links": [
+        "HorizonRegistryTileSpec-v1.0",
+        "MicrotileSet-v1.0",
+        "HorizonIndexRegistry-v1.0"
+      ]
+    },
+    "HorizonRegistryTileSpec-v1.0": {
+      "links": [
+        "VisualGrammar-v1.0",
+        "MicrotileSet-v1.0"
+      ]
+    },
+    "MicrotileSet-v1.0": {
+      "links": [
+        "VisualGrammar-v1.0",
+        "HorizonIndexRegistry-v1.0"
+      ]
+    },
+    "HorizonIndexRegistry-v1.0": {
+      "links": [
+        "VisualGrammar-v1.0",
+        "MicrotileSet-v1.0",
+        "HorizonRegistryTileSpec-v1.0"
+      ]
+    }
+  },
+
