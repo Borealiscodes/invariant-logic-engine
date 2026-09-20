@@ -1,0 +1,101 @@
+{
+  "artifact": "PNGProvenanceIndex-v1.0",
+  "version": "1.0",
+  "altitude": {
+    "A5": "Reflective Basin",
+    "A6": "Governance"
+  },
+  "membrane": "Expressive-Clarity",
+  "non_activation": true,
+
+  "png_artifacts": {
+    "HorizonRegistryTile": {
+      "id": "HorizonRegistryTile-v1.0.png",
+      "path": "InvariantLogicEngine/expressive_clarity/png/HorizonRegistryTile-v1.0.png",
+      "type": "registry-tile",
+      "glyphs": ["Ω", "Δ", "Φ", "Λ"],
+      "spec_ref": "HorizonRegistryTileSpec-v1.0",
+      "visual_grammar_ref": "VisualGrammar-v1.0",
+      "altitude": "A6"
+    },
+
+    "OmegaMicrotile": {
+      "id": "OmegaMicrotile-v1.0.png",
+      "path": "InvariantLogicEngine/expressive_clarity/png/microtiles/OmegaMicrotile-v1.0.png",
+      "type": "microtile",
+      "glyph": "Ω",
+      "unicode": "U+03A9",
+      "spec_ref": "MicrotileSet-v1.0",
+      "visual_grammar_ref": "VisualGrammar-v1.0",
+      "altitude": "A5"
+    },
+
+    "DeltaMicrotile": {
+      "id": "DeltaMicrotile-v1.0.png",
+      "path": "InvariantLogicEngine/expressive_clarity/png/microtiles/DeltaMicrotile-v1.0.png",
+      "type": "microtile",
+      "glyph": "Δ",
+      "unicode": "U+0394",
+      "spec_ref": "MicrotileSet-v1.0",
+      "visual_grammar_ref": "VisualGrammar-v1.0",
+      "altitude": "A5"
+    },
+
+    "PhiMicrotile": {
+      "id": "PhiMicrotile-v1.0.png",
+      "path": "InvariantLogicEngine/expressive_clarity/png/microtiles/PhiMicrotile-v1.0.png",
+      "type": "microtile",
+      "glyph": "Φ",
+      "unicode": "U+03A6",
+      "spec_ref": "MicrotileSet-v1.0",
+      "visual_grammar_ref": "VisualGrammar-v1.0",
+      "altitude": "A5"
+    },
+
+    "LambdaMicrotile": {
+      "id": "LambdaMicrotile-v1.0.png",
+      "path": "InvariantLogicEngine/expressive_clarity/png/microtiles/LambdaMicrotile-v1.0.png",
+      "type": "microtile",
+      "glyph": "Λ",
+      "unicode": "U+039B",
+      "spec_ref": "MicrotileSet-v1.0",
+      "visual_grammar_ref": "VisualGrammar-v1.0",
+      "altitude": "A5"
+    }
+  },
+
+  "cross_references": {
+    "VisualGrammar-v1.0": [
+      "HorizonRegistryTile-v1.0.png",
+      "OmegaMicrotile-v1.0.png",
+      "DeltaMicrotile-v1.0.png",
+      "PhiMicrotile-v1.0.png",
+      "LambdaMicrotile-v1.0.png"
+    ],
+    "HorizonRegistryTileSpec-v1.0": [
+      "HorizonRegistryTile-v1.0.png"
+    ],
+    "MicrotileSet-v1.0": [
+      "OmegaMicrotile-v1.0.png",
+      "DeltaMicrotile-v1.0.png",
+      "PhiMicrotile-v1.0.png",
+      "LambdaMicrotile-v1.0.png"
+    ]
+  },
+
+  "integrity": {
+    "transparency_required": true,
+    "alpha_channel": "full",
+    "format": "png",
+    "content_container_separation": true,
+    "non_activation": true
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "compiler": "Microsoft Copilot",
+    "location": "Dublin, Ireland",
+    "timestamp": "20 September 2026 — 21:28 IST",
+    "seal": "NDH.PNG.PROVENANCE.INDEX"
+  }
+}
