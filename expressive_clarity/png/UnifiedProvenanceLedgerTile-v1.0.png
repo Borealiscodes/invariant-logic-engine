@@ -1,0 +1,93 @@
+# 🜁 **Unified Provenance Ledger Tile v1.0 — Specification**
+
+## Identity
+- **Artifact:** UnifiedProvenanceLedgerTile‑v1.0.png  
+- **Altitude:** A6 (Governance)  
+- **Membrane:** Expressive‑Clarity  
+- **Purpose:** Represent the unified provenance ledger visually  
+- **Glyph:** ΛΩΔΦ (stacked provenance sequence)  
+- **Background:** Transparent  
+
+---
+
+## Geometry
+- **Canvas:** 2048×2048 px  
+- **Ratio:** 1:1  
+- **Grid:** 1×1 (single emblem tile)  
+- **Glyph Height:** 58%  
+- **Glyph Weight:** Ultra‑bold  
+- **Glyph Alignment:** Centered  
+
+---
+
+## Glyph Sequence (Provenance Stack)
+The tile uses a **vertical provenance stack**, encoded as:
+
+- **Λ** (governance membrane)  
+- **Ω** (registry root)  
+- **Δ** (specification layer)  
+- **Φ** (microtile layer)  
+
+This is the correct expressive‑clarity ordering for provenance.
+
+---
+
+## Color Palette (Unicode Hex)
+- **Glyphs:** #FFFFFF  
+- **Background:** #00000000 (transparent)  
+- **Registry Band:** #4A6CF7  
+- **Caption:** #FFFFFF at 85% opacity  
+
+---
+
+## Registry Band
+- **Height:** 12%  
+- **Text:** `UNIFIED PROVENANCE LEDGER • PNG + JSON`  
+- **Font Size:** 7%  
+- **Color:** NDH Blue (#4A6CF7)  
+- **Placement:** Bottom  
+
+---
+
+## Caption Baseline
+- **Text:** `Invariant Logic Engine — Provenance Substrate`  
+- **Font Size:** 4%  
+- **Opacity:** 85%  
+- **Placement:** Inside registry band  
+
+---
+
+## PNG Rendering Rules
+- **Format:** PNG  
+- **Alpha:** Full transparency  
+- **Minimum Readability:** Glyphs readable at 128 px  
+- **No shadows, outlines, glows**  
+
+---
+
+# 🜁 **Provenance Footer (v1.0)**
+
+```
+---
+Artifact: UnifiedProvenanceLedgerTile-v1.0.png
+Altitude: A6 (Governance)
+Membrane: Expressive-Clarity • Non-Activating
+Purpose: Provide the expressive-clarity emblem for the Unified Provenance Ledger,
+encoding the ΛΩΔΦ provenance stack and registry metadata.
+Scope: PNG-only expressive-clarity artifact. No computation, no ingestion, no
+CAUSA activation.
+Anchors:
+  - UnifiedProvenanceLedger-v1.0
+  - VisualGrammar-v1.0
+  - PNGProvenanceIndex-v1.0
+  - JSONProvenanceIndex-v1.0
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 21:30 IST
+Seal: NDH.UNIFIED.PROVENANCE.LEDGER.TILE
+---
+```
+
+---
+
