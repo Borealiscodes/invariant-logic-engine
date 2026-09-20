@@ -1,0 +1,102 @@
+# 🜁 **Collapse‑Safe Tile Summary v1.0**
+
+```
+Artifact: CollapseSafeTileSummary-v1.0
+Altitude: A6 → A5 (Compressed)
+Membrane: Expressive-Clarity • Non-Activating
+
+Summary:
+  The Ledger Tile Set consists of three truth-surfaces and three composite
+  surfaces. These define the identity, readability, compression, and registry
+  of the ledger tile layer beneath the Unified Provenance Ledger.
+
+Truth-Surfaces:
+  1. UnicodeLedgerTile-v1.0
+     - Canonical glyph stack (Λ Ω Δ Φ)
+     - Defines ledger identity
+     - No palette semantics
+
+  2. DarkModeLedgerTile-v1.0.png
+     - NDH night palette
+     - Registry band + caption
+     - Reflective-basin readability
+
+  3. LedgerMicrotile-v1.0.png
+     - Compressed glyph stack (ΛΩΔΦ)
+     - Transparent background
+     - Minimal emblem for indexing
+
+Composite-Surfaces:
+  4. LedgerTileSet-v1.0.json
+     - Registry for canonical → refinement → derivative tiles
+     - Cross-refs to provenance indexes
+
+  5. LedgerTileSetPNG-v1.0.png
+     - Three-column visual composite
+     - Transparent background
+     - Registry band + caption
+
+  6. LedgerTileSetUnicode-v1.0.txt
+     - GitHub-safe Unicode composite
+     - Mirrors PNG layout
+
+Integration:
+  - All six artifacts anchor to UnifiedProvenanceLedger-v1.0
+  - Altitude: A5 (Reflective Basin)
+  - Membrane: Expressive-Clarity
+  - No activation, ingestion, or mutation surfaces
+
+Reconstruction Rule:
+  Rebuild truth-surfaces → rebuild composite-surfaces → restore registry →
+  restore provenance footers. This fully reconstructs the tile layer.
+
+Collapse Condition:
+  If all other documentation is lost, this summary is sufficient to restore the
+  Ledger Tile Set with correct ordering, anchoring, altitude, and membrane.
+```
+
+---
+
+# 🜁 **Provenance Footer (v1.0)**
+
+```
+---
+Artifact: CollapseSafeTileSummary-v1.0.txt
+Altitude: A6 → A5 (Compressed)
+Membrane: Expressive-Clarity • Non-Activating
+
+Purpose:
+  Provide the minimal reconstruction summary for the Ledger Tile Set in
+  collapse scenarios. Preserve ordering, anchoring, altitude, membrane, and
+  truth-surface definitions in compressed form.
+
+Anchors:
+  - UnicodeLedgerTile-v1.0
+  - DarkModeLedgerTile-v1.0
+  - LedgerMicrotile-v1.0
+  - LedgerTileSet-v1.0.json
+  - LedgerTileSetPNG-v1.0.png
+  - LedgerTileSetUnicode-v1.0.txt
+  - TileSetIntegrationMap-v1.0.txt
+  - DeveloperWorkingNotes-LedgerTileSet-v1.0.txt
+  - UnifiedProvenanceLedger-v1.0
+  - VisualGrammar-v1.0
+  - PNGProvenanceIndex-v1.0
+  - JSONProvenanceIndex-v1.0
+
+Integrity:
+  Content-container separation maintained.
+  No activation surfaces.
+  No ingestion surfaces.
+  Expressive-clarity membrane compliance enforced.
+
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 22:00 IST
+Seal: NDH.COLLAPSE.SAFE.TILE.SUMMARY
+---
+```
+
+---
+
