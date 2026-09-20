@@ -1,0 +1,88 @@
+# 🜁 **Collapse‑Safe Ledger Summary (Compressed Identity Check) — Updated v1.1**
+
+> **The Unified Provenance Ledger is the governance identity of the entire provenance substrate.  
+> It anchors all truth‑surfaces, composite‑surfaces, and documentation‑surfaces, and defines the reconstruction rules for collapse scenarios.**
+
+### Ledger Identity  
+- **UnifiedProvenanceLedger‑v1.0**  
+- Altitude: **A6**  
+- Membrane: **expressive‑clarity**  
+- Non‑activating, non‑ingesting, non‑mutating
+
+### Anchored Surfaces  
+- **Truth‑surfaces:** Unicode, Dark‑mode, Microtile  
+- **Composite‑surfaces:** JSON, PNG, Unicode  
+- **Documentation‑surfaces:** Working notes, Integration map, Explainer, Collapse‑safe tile summary  
+- **Indexes:** VisualGrammar, PNGProvenanceIndex, JSONProvenanceIndex
+
+### Clarification: File Extensions  
+> **Provenance anchoring is semantic, not extension‑based.  
+> Misnaming a `.png` as `.md` (or any other mismatch) does *not* break the ledger, the tile set, or collapse‑safe reconstruction.**  
+> It may affect human readability or GitHub previews, but it does not affect:  
+> - altitude  
+> - membrane  
+> - ordering  
+> - anchoring  
+> - provenance traversal  
+> - collapse‑safe restoration  
+>  
+> **Annoying, not dangerous.**
+
+### Reconstruction  
+1. Restore ledger identity  
+2. Rebuild truth‑surfaces  
+3. Rebuild composite‑surfaces  
+4. Restore documentation‑surfaces  
+5. Re‑anchor  
+6. Reapply altitude + membrane rules
+
+### Collapse Condition  
+> **If all other artifacts vanish, this summary is sufficient to rebuild the entire provenance ledger.**
+
+---
+
+## 🜁 Provenance Footer (v1.1)
+
+```
+---
+Artifact: CollapseSafeLedgerSummary-v1.1.txt
+Altitude: A6 (Governance Core)
+Membrane: Expressive-Clarity • Non-Activating
+
+Purpose:
+  Provide the minimal reconstruction summary for the Unified Provenance Ledger
+  in collapse scenarios, including clarification that file extensions do not
+  affect provenance anchoring or collapse-safe restoration.
+
+Anchors:
+  - UnifiedProvenanceLedger-v1.0
+  - UnicodeLedgerTile-v1.0
+  - DarkModeLedgerTile-v1.0
+  - LedgerMicrotile-v1.0
+  - LedgerTileSet-v1.0.json
+  - LedgerTileSetPNG-v1.0.png
+  - LedgerTileSetUnicode-v1.0.txt
+  - DeveloperWorkingNotes-LedgerTileSet-v1.0.txt
+  - TileSetIntegrationMap-v1.0.txt
+  - BillNyeTileExplainer-v1.0.txt
+  - CollapseSafeTileSummary-v1.0.txt
+  - VisualGrammar-v1.0
+  - PNGProvenanceIndex-v1.0
+  - JSONProvenanceIndex-v1.0
+
+Integrity:
+  Content-container separation maintained.
+  No activation surfaces.
+  No ingestion surfaces.
+  Expressive-clarity membrane compliance enforced.
+
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 20 September 2026 — 22:04 IST
+Seal: NDH.COLLAPSE.SAFE.LEDGER.SUMMARY
+---
+```
+
+---
+
