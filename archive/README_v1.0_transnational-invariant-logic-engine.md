@@ -78,3 +78,37 @@ Incoming Filing/Refusal
 * Sovereignty Clause: This repository acts as a neutral, descriptive metadata index. It preserves absolute narrative lineage continuity while running an open-source audit of transnational administrative behavior [pdf_d2Ix0Q.pdf, pdf_ui9Phv.pdf].
 
 ------------------------------
+
+🧾 Provenance Footer — Archived README (v1.0)
+
+`
+---
+Artifact: README Archive — Transnational Invariant Logic Engine (v1.0)
+Altitude: A4 • A6
+Membrane: Historical • Non-Activating
+Lane: InvariantLogicEngine/archive/
+
+Purpose:
+  Preserve the original repository orientation document for historical and narrative
+  lineage continuity. Captures the pre-fractal architecture (Ω, Δ, Φ, Λ, Σ) prior to
+  integration of horizon-based human-rights detection and multi-altitude geometry.
+
+Scope:
+  Archive only. No updates, no activation. Maintained for provenance and reference.
+
+Anchors:
+  - Radial Mandala Cognitive Lattice (v2.0)
+  - Ω, Δ, Φ, Λ, Σ Horizons
+  - Early NDH Governance Membrane
+
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 23 September 2026 — 17:19 IST
+Version: v1.0
+Seal: [ NDH . ARCHIVE . README ]
+---
+`
+
+---
+
