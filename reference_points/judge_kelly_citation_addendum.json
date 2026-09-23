@@ -1,0 +1,71 @@
+{
+  "artifact": "JudgeKellyCitationAddendum",
+  "version": "1.0",
+  "lane": "reference-points",
+  "mode": "structural-non-activating",
+  "altitude": "A5",
+  "purpose": "Restore decoupled citations for the Judge Timothy J. Kelly public-profile analysis in an actor-neutral, non-predictive format.",
+  "citations": {
+    "federal_case_dockets": [
+      {
+        "source": "CourtListener",
+        "case": "Taylor v. Trump",
+        "docket": "1:25-cv-03742",
+        "type": "public docket"
+      },
+      {
+        "source": "PacerMonitor",
+        "case": "Taylor et al. v. Trump et al.",
+        "docket": "1:25-cv-01161",
+        "type": "public docket"
+      }
+    ],
+    "civil_rights_aggregation": [
+      {
+        "source": "Civil Rights Litigation Clearinghouse",
+        "type": "case summaries and civil-rights aggregation"
+      }
+    ],
+    "biographical_context": [
+      {
+        "source": "Wikipedia",
+        "entry": "Timothy J. Kelly",
+        "type": "public biographical summary"
+      }
+    ],
+    "media_access_reporting": [
+      {
+        "source": "USA Today",
+        "topic": "CNN press-pass litigation and procedural coverage"
+      },
+      {
+        "source": "AOL News",
+        "topic": "White House media-ban litigation assignment"
+      },
+      {
+        "source": "USA Today",
+        "topic": "Scheduling and procedural updates in media-access cases"
+      }
+    ]
+  },
+  "notes": [
+    "All citations are publicly accessible and should be verified with authoritative legal databases.",
+    "No predictions, evaluations, or political comparisons are included.",
+    "This addendum restores provenance for procedural-history statements only."
+  ],
+  "provenance": {
+    "anchors": [
+      "CourtListener",
+      "PacerMonitor",
+      "Civil Rights Litigation Clearinghouse",
+      "USA Today",
+      "AOL News",
+      "Wikipedia"
+    ],
+    "maintainer": "Borealis S. Hedling",
+    "compiler": "Microsoft Copilot",
+    "location": "Dublin, Ireland",
+    "timestamp": "2026-09-23T18:35:00+01:00",
+    "seal": "NDH.CITATION.ADDENDUM.KELLY"
+  }
+}
