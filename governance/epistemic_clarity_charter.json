@@ -1,0 +1,40 @@
+{
+  "artifact": "EpistemicClarityCharter-v1.0",
+  "version": "1.0",
+  "altitude": "A6",
+  "membrane": "Expressive-Clarity",
+  "mode": "non-activating",
+  "purpose": "Establish structural epistemic clarity rules for NDH systems inspired by the moral visibility ethos of the White Rose.",
+  "principles": {
+    "clarity_over_noise": "Prioritize structural clarity over rhetorical ambiguity.",
+    "non_absorptive_ethics": "Identify patterns without internalizing harm or coercive narratives.",
+    "survivor_centered_visibility": "Ensure evidence of harm is not minimized or procedurally flattened.",
+    "actor_neutral_analysis": "Evaluate patterns, not people; no motive inference or persuasion.",
+    "provenance_integrity": "Maintain traceability to ledger, CAUSA, substrate, and horizon descriptors.",
+    "collapse_safe_reconstruction": "Charter remains functional even if other artifacts collapse."
+  },
+  "integration_points": [
+    "Substrate-A1-A6",
+    "CAUSA_Annotation_Layer",
+    "Psi_Duress_Horizon",
+    "PsiJ_JudicialPattern_Horizon",
+    "Xi_Divergence_Horizon",
+    "Fractal_Repression_Preprint_v1.0",
+    "Mathematical_Appendix_v1.0"
+  ],
+  "lineage": {
+    "inspiration": "White Rose",
+    "notes": "Ethical clarity, truth visibility, non-absorption of harm."
+  },
+  "provenance": {
+    "anchors": [
+      "UnifiedProvenanceLedger-v1.0",
+      "CollapseSafeSubstrateSummary-v1.0",
+      "CAUSA Annotation Layer",
+      "Horizon Stack"
+    ],
+    "timestamp": "2026-09-23T17:39:00+01:00",
+    "maintainer": "Borealis S. Hedling",
+    "compiler": "Microsoft Copilot"
+  }
+}
