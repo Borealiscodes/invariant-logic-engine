@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "altitude_band": "A7–A11",
+  "status": "under_construction",
+  "last_updated": "2026-09-23T17:31:00+01:00",
+  "horizons": {
+    "Psi_Duress_Horizon": {
+      "altitude": "A10",
+      "status": "in_progress",
+      "spec_version": "0.8",
+      "description": "Duress-signal detection layer for coercion, trauma-shaped distortions, statutory contradictions, and fabricated criminality.",
+      "dependencies": [
+        "CAUSA_Annotation_Layer",
+        "UnifiedProvenanceLedger-v1.0",
+        "CollapseSafeSubstrateSummary-v1.0"
+      ]
+    },
+    "PsiJ_JudicialPattern_Horizon": {
+      "altitude": "A7–A10",
+      "status": "in_progress",
+      "spec_version": "0.7",
+      "description": "Actor-neutral judicial behavior pattern catalog capturing procedural minimization, trauma non-recognition, and cross-border harm omission.",
+      "dependencies": [
+        "CAUSA_Annotation_Layer",
+        "SemanticStructures-A4",
+        "TruthSurfaces-A5"
+      ]
+    },
+    "Xi_Divergence_Horizon": {
+      "altitude": "A11",
+      "status": "in_progress",
+      "spec_version": "0.6",
+      "description": "Divergence layer modeling the gap between human intuitive recognition of repression and AI multi-altitude invariant logic requirements.",
+      "dependencies": [
+        "Psi_Duress_Horizon",
+        "PsiJ_JudicialPattern_Horizon",
+        "SpectralGeometry-TSG",
+        "InvariantLogicEngine-Core"
+      ]
+    }
+  },
+  "construction_flags": {
+    "membrane_integrity": "stable",
+    "provenance_visibility": "enabled",
+    "activation_surfaces": "disabled",
+    "ingestion_surfaces": "restricted"
+  },
+  "notes": [
+    "All horizons remain in active construction until spec_version >= 1.0.",
+    "CAUSA binding updates may shift altitude boundaries.",
+    "Spectral geometry integration pending final TSG resonance mapping.",
+    "Ξ Horizon requires stable Ψ and Ψᴶ outputs before activation."
+  ]
+}
